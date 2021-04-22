@@ -8,3 +8,4 @@ I have tried to find things like:
 4. How long do people stay at the hotel?
 
 I have ran different models to check the which model will give maximum accuracy.
+I have used Jupyter Notebook to calculate all these things.
